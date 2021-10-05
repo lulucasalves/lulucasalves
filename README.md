@@ -1,7 +1,3 @@
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 [![card](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lulucasalves&hide=html&layout=compact&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)
 
