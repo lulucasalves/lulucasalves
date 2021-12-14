@@ -4,4 +4,4 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lulucasalves/)
 
-<h2>Meus repositórios são classificados por (Nome - Tipo - Área)</h2>
+<p>Meus repositórios são classificados por (Nome - Tipo - Área)</p>
