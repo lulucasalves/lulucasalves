@@ -11,8 +11,12 @@
 
 
 <h2>Meus repositórios são classificados por (Nome - Tipo - Área)</h2>
-<p>Podendo ser da categoria:</p>
+<p>Categorias:</p>
 <li>Arduino (arduino)</li>
-<li>Front-end (front)</li>
-<li>Back-end (back)</li>
-<li>Mobile</li>
+<li>Front-End (front)</li>
+<li>Back-End (back)</li>
+<li>Mobile (mobile) </li>
+<li>Full-Stack (fullstack)</li>
+<p>Tipos:</p>
+<li>project - Projetos completos</li>
+<li>api - APIs para projetos</li>
