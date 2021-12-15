@@ -17,6 +17,7 @@
 <li>Back-End (back)</li>
 <li>Mobile (mobile) </li>
 <li>Full-Stack (fullstack)</li>
+<br/>
 <p>Tipos:</p>
 <li>project - Projetos completos</li>
 <li>api - APIs para projetos</li>
