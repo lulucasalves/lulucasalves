@@ -10,4 +10,9 @@
 
 
 
-<p>Meus repositórios são classificados por (Nome - Tipo - Área)</p>
+<h2>Meus repositórios são classificados por (Nome - Tipo - Área)</h2>
+<p>Podendo ser da categoria:</p>
+<li>Arduino (arduino)<li/>
+<li>Front-end (front)</li>
+<li>Back-end (back)</li>
+<li>Mobile</li>
