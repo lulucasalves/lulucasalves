@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
 <br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lulucasalves&hide=html&layout=compact&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=lulucasalves&theme=cobalt)
 
