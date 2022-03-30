@@ -10,12 +10,7 @@
 
 
 
-<h2>Meus repositórios são classificados por (Nome - Tipo - Categoria)</h2>
-<p>Tipos:</p>
-<li>project - Projetos completos</li>
-<li>api - APIs para projetos</li>
-<li>tools - Ferramentas de auxílio</li>
-<br/>
+<h2>Meus repositórios são classificados por (Nome - Categoria)</h2>
 <p>Categorias:</p>
 <li>Arduino (arduino)</li>
 <li>Front-End (front)</li>
