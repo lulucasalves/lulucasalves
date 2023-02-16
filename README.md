@@ -37,4 +37,5 @@
 <li>Arduino (arduino)</li>
 <li>Front-End (front)</li>
 <li>Back-End (back)</li>
-<li>Mobile (mobile) </li>
+<li>Mobile (mobile)</li>
+<li>Infrastructure (infra)</li>
