@@ -36,4 +36,5 @@
 <li>Front-End (front)</li>
 <li>Back-End (back)</li>
 <li>Mobile (mobile)</li>
+<li>Full-Stack (full)</li>
 <li>Infraestrutura (infra)</li>
