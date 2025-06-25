@@ -44,7 +44,7 @@ I'm a 22-year-old developer with over 5 years of experience building scalable we
 ## 🌐 Connect with Me
 
 - GitHub: [@lulucasalves](https://github.com/lulucasalves)
-- LinkedIn: [lucas-alves](https://linkedin.com/in/lucas-alves)
+- LinkedIn: [lucas-alves](https://linkedin.com/in/lulucasalves)
 
 ---
 
